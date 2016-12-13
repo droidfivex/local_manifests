@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="AICP/proprietary_vendor_lge" path="vendor/lge" remote="aicp" revision="n7.1" />
+  <project name="TheMuppets/proprietary_vendor_qcom_binaries" path="vendor/qcom/binaries" remote="aicp" revision="cm-14.1" />
+  <project name="AICP/proprietary_vendor_samsung" path="vendor/samsung" remote="aicp" revision="n7.1" />
+</manifest>

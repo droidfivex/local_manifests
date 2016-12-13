@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="AICP/device_lge_mako" path="device/lge/mako" remote="aicp" revision="n7.1" />
+  <project name="CyanogenMod/lge-kernel-mako" path="kernel/lge/mako" remote="aicp" revision="cm-14.1" />
+</manifest>

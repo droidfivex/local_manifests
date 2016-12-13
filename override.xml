@@ -1,0 +1,4 @@
+<manifest>
+	<remove-project name="AICP/vendor_aicp" />
+	<project name="droidfivex/vendor_aicp" path="vendor/aicp" remote="aicp" revision="n7.1" />
+</manifest>
