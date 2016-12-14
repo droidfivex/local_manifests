@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project name="AICP/device_lge_l01f" path="device/lge/l01f" remote="aicp" revision="n7.1" />
-  <project name="AICP/device_lge_g2-common" path="device/lge/g2-common" remote="aicp" revision="n7.1" />
-  <project name="AICP/kernel_lge_msm8974" path="kernel/lge/msm8974" remote="aicp" revision="n7.1" />
+  <project name="droidfivex/device_lge_g2-common" path="device/lge/g2-common" remote="aicp" revision="n7.1" />
+  <project name="droidfivex/kernel_lge_msm8974" path="kernel/lge/msm8974" remote="aicp" revision="n7.1" />
 </manifest>
