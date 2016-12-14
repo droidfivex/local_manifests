@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="ebizome/aicp_device_samsung_kltekdi" path="device/samsung/kltekdi" remote="aicp" revision="n7.1" />
+  <project name="AICP/device_samsung_kltekdi" path="device/samsung/kltekdi" remote="aicp" revision="n7.1" />
   <project name="AICP/device_samsung_klte-common" path="device/samsung/klte-common" remote="aicp" revision="n7.1" />
   <project name="CyanogenMod/android_kernel_samsung_klte" path="kernel/samsung/klte" remote="aicp" revision="cm-14.1" />
 </manifest>
