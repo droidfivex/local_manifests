@@ -1,0 +1,5 @@
+<manifest>
+  <project name="blastagator/LGG2_TWRP_Kernel" path="kernel/lge/msm8974" revision="cm-13.0-twrp" />
+  <project name="blastagator/cm_device_lge_g2-common" path="device/lge/g2-common" revision="cm-13.0-twrp" />
+  <project name="blastagator/cm_device_lge_l01f" path="device/lge/l01f" revision="cm-13.0-twrp" />
+</manifest>
